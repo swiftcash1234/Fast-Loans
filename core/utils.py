@@ -1,8 +1,8 @@
 import requests
 
 MEGAPAY_API_URL = "https://megapay.co.ke/backend/v1"
-MEGAPAY_API_KEY = "MGPY5nBRzeut"
-MEGAPAY_EMAIL = "smilejaym711@gmail.com"
+MEGAPAY_API_KEY = "MGPYNyk3JMiW"
+MEGAPAY_EMAIL = "felixkiverenge@gmail.com"
 
 def initiate_stk_push(amount, msisdn, reference):
     payload = {
